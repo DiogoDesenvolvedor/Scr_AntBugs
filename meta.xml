@@ -1,0 +1,7 @@
+<meta>
+<!-- Info -->
+    <info author="DioguinScr" version="1.0" name="Script ant bugs"/>
+<!-- Script -->
+	<script src="script/global.lua" type="shared"/>
+    <script src="script/server.lua" type="server"/>
+</meta>
